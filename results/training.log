@@ -1194,3 +1194,394 @@ SAC_safe: 0.000
 
 ==================================================
 
+
+Current Statistics:
+Steps: 13143
+Time: 2024-12-03 23:16:16
+
+Rewards:
+SAC_normal: 24.11
+SAC_safe: 718.28
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 20.9 km/h
+SAC_safe: 116.0 km/h
+
+Collision Rates:
+SAC_normal: 0.045
+SAC_safe: 0.000
+
+==================================================
+
+
+Current Statistics:
+Steps: 13563
+Time: 2024-12-03 23:17:12
+
+Rewards:
+SAC_normal: 22.02
+SAC_safe: 718.28
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 22.5 km/h
+SAC_safe: 109.4 km/h
+
+Collision Rates:
+SAC_normal: 0.050
+SAC_safe: 0.000
+
+==================================================
+
+
+Current Statistics:
+Steps: 14032
+Time: 2024-12-03 23:18:15
+
+Rewards:
+SAC_normal: 71.28
+SAC_safe: 718.28
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 7.6 km/h
+SAC_safe: 109.5 km/h
+
+Collision Rates:
+SAC_normal: 0.014
+SAC_safe: 0.000
+
+==================================================
+
+
+Current Statistics:
+Steps: 14253
+Time: 2024-12-03 23:18:45
+
+Rewards:
+SAC_normal: 22.62
+SAC_safe: 352.93
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 21.8 km/h
+SAC_safe: 107.2 km/h
+
+Collision Rates:
+SAC_normal: 0.048
+SAC_safe: 0.005
+
+==================================================
+
+
+Current Statistics:
+Steps: 14423
+Time: 2024-12-03 23:19:08
+
+Rewards:
+SAC_normal: 23.45
+SAC_safe: 259.80
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 19.9 km/h
+SAC_safe: 103.8 km/h
+
+Collision Rates:
+SAC_normal: 0.045
+SAC_safe: 0.007
+
+==================================================
+
+
+Current Statistics:
+Steps: 14580
+Time: 2024-12-03 23:19:29
+
+Rewards:
+SAC_normal: 24.59
+SAC_safe: 232.70
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 17.3 km/h
+SAC_safe: 98.8 km/h
+
+Collision Rates:
+SAC_normal: 0.042
+SAC_safe: 0.008
+
+==================================================
+
+
+Current Statistics:
+Steps: 14722
+Time: 2024-12-03 23:19:48
+
+Rewards:
+SAC_normal: 25.88
+SAC_safe: 205.73
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 18.8 km/h
+SAC_safe: 99.5 km/h
+
+Collision Rates:
+SAC_normal: 0.042
+SAC_safe: 0.008
+
+==================================================
+
+
+Current Statistics:
+Steps: 14824
+Time: 2024-12-03 23:20:02
+
+Rewards:
+SAC_normal: 22.73
+SAC_safe: 140.38
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 24.9 km/h
+SAC_safe: 89.1 km/h
+
+Collision Rates:
+SAC_normal: 0.050
+SAC_safe: 0.012
+
+==================================================
+
+
+Current Statistics:
+Steps: 14929
+Time: 2024-12-03 23:20:17
+
+Rewards:
+SAC_normal: 21.20
+SAC_safe: 143.47
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 18.0 km/h
+SAC_safe: 87.6 km/h
+
+Collision Rates:
+SAC_normal: 0.048
+SAC_safe: 0.012
+
+==================================================
+
+
+Current Statistics:
+Steps: 15017
+Time: 2024-12-03 23:20:29
+
+Rewards:
+SAC_normal: 26.71
+SAC_safe: 106.21
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 18.7 km/h
+SAC_safe: 85.0 km/h
+
+Collision Rates:
+SAC_normal: 0.040
+SAC_safe: 0.016
+
+==================================================
+
+
+Current Statistics:
+Steps: 15086
+Time: 2024-12-03 23:20:38
+
+Rewards:
+SAC_normal: 20.34
+SAC_safe: 81.55
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 23.2 km/h
+SAC_safe: 70.8 km/h
+
+Collision Rates:
+SAC_normal: 0.053
+SAC_safe: 0.020
+
+==================================================
+
+
+Current Statistics:
+Steps: 15154
+Time: 2024-12-03 23:20:47
+
+Rewards:
+SAC_normal: 25.43
+SAC_safe: 72.36
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 20.2 km/h
+SAC_safe: 63.3 km/h
+
+Collision Rates:
+SAC_normal: 0.043
+SAC_safe: 0.022
+
+==================================================
+
+
+Current Statistics:
+Steps: 15280
+Time: 2024-12-03 23:21:04
+
+Rewards:
+SAC_normal: 63.39
+SAC_safe: 107.98
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 7.3 km/h
+SAC_safe: 83.3 km/h
+
+Collision Rates:
+SAC_normal: 0.016
+SAC_safe: 0.016
+
+==================================================
+
+
+Current Statistics:
+Steps: 15343
+Time: 2024-12-03 23:21:14
+
+Rewards:
+SAC_normal: 21.90
+SAC_safe: 66.65
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 19.8 km/h
+SAC_safe: 57.1 km/h
+
+Collision Rates:
+SAC_normal: 0.048
+SAC_safe: 0.024
+
+==================================================
+
+
+Current Statistics:
+Steps: 15434
+Time: 2024-12-03 23:21:26
+
+Rewards:
+SAC_normal: 20.96
+SAC_safe: 120.35
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 19.6 km/h
+SAC_safe: 81.3 km/h
+
+Collision Rates:
+SAC_normal: 0.050
+SAC_safe: 0.014
+
+==================================================
+
+
+Current Statistics:
+Steps: 15520
+Time: 2024-12-03 23:21:38
+
+Rewards:
+SAC_normal: 27.00
+SAC_safe: 101.84
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 18.9 km/h
+SAC_safe: 79.9 km/h
+
+Collision Rates:
+SAC_normal: 0.040
+SAC_safe: 0.016
+
+==================================================
+
+
+Current Statistics:
+Steps: 15612
+Time: 2024-12-03 23:21:50
+
+Rewards:
+SAC_normal: 25.25
+SAC_safe: 114.54
+
+Lane Changes:
+SAC_normal: 0
+SAC_safe: 0
+
+Mean Speeds:
+SAC_normal: 17.3 km/h
+SAC_safe: 79.6 km/h
+
+Collision Rates:
+SAC_normal: 0.042
+SAC_safe: 0.015
+
+==================================================
+
